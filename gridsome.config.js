@@ -5,8 +5,8 @@
 // To restart press CTRL + C in terminal and run `gridsome develop`
 
 module.exports = {
-  siteName: '拉勾教育',
-  siteDescription: '大前端',
+  siteName: '毛小星',
+  siteDescription: '博客',
   plugins: [],
   templates: {
     Post: [
